@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a professional computer scientist, former LTI/CMU pH-D student. I have been a professional computer scientist for 30+ years. I speak πtorch & C++.
+
+- ⚡ [Personal info](http://searchivarius.org/about)
+- 📫 I can be [reached on twitter](https://twitter.com/srchvrs).
+
 <!--
 **searchivarius/searchivarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=searchivarius&show_icons=true)
 -->
