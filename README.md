@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I am Leo (Leonid) Boytsov. I have been a professional computer scientist for 30+ years. I did my pH-D mid-career @ LTI/CMU. 
+I am Leo (Leonid) Boytsov. I have been a professional computer scientist for 30+ years. 
+- I did my pH-D mid-career @ LTI/CMU. 
+- I speak πtorch & C++ and work on IR, NLP, and CV.
 
-I speak πtorch & C++ and work on IR, NLP, and CV.
-
+Further links:
 - ⚡ [Personal info](http://searchivarius.org/about)
 - 📫 [Twitter](https://twitter.com/srchvrs)
 
