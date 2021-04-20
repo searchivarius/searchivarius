@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a former LTI/CMU pH-D student. I have been a professional computer scientist for 30+ years. I speak πtorch & C++ and work on IR, NLP, and CV.
+I am a former LTI/CMU pH-D student. I have been a professional computer scientist for 30+ years. 
+
+I speak πtorch & C++ and work on IR, NLP, and CV.
 
 - ⚡ [Personal info](http://searchivarius.org/about)
 - 📫 [Twitter](https://twitter.com/srchvrs)
