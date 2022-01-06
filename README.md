@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Leo (Leonid) Boytsov. I have been a professional computer scientist for 25+ years. 
+I am Leo (Leonid) Boytsov. I have been writing code for more than 30 years, professionally since 1996.
 - I did my pH-D mid-career @ LTI/CMU. 
 - I speak πtorch & C++ and work on IR, NLP, and CV.
 - I remember dependency parsing & USSR.
