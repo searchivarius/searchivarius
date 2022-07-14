@@ -3,7 +3,7 @@
 I am Leo (Leonid) Boytsov. I have been writing code for more than 30 years, professionally since 1996.
 - I did my pH-D mid-career @ LTI/CMU. 
 - I speak πtorch & C++ and work on IR, NLP, and CV.
-- I remember dependency parsing & gradient boosted descision trees.
+- I remember dependency parsing & gradient boosted decision trees.
 
 Further links:
 - ⚡ [Personal info](http://searchivarius.org/about)
