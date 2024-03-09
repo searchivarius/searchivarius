@@ -11,6 +11,8 @@ Further links:
 - ⚡ [Personal info](http://searchivarius.org/about)
 - 📫 [Twitter](https://twitter.com/srchvrs)
 
+![](https://komarev.com/ghpvc/?username=searchivarius)
+
 <!--
 **searchivarius/searchivarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
