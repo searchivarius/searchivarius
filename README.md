@@ -9,7 +9,7 @@ I am Leo (Leonid) Boytsov. I have been writing code for more than 30 years, prof
 
 Further links:
 - ⚡ [Personal info](http://searchivarius.org/about)
-- 📫 [Twitter](https://twitter.com/srchvrs)
+- 📫 [eX-Twitter](https://twitter.com/srchvrs)
 
 ![](https://komarev.com/ghpvc/?username=searchivarius)
 
