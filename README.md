@@ -2,7 +2,7 @@
 
 I am Leo (Leonid) Boytsov. I have been writing code for more than 30 years, professionally since 1996.
 
-- I am a Sr. Research Scientist @ Amazon AWS AI Labs (opinions are my own).
+- I am a Machine learning scientist and engineer speaking πtorch & C++.
 - I did my pH-D mid-career @ LTI/CMU. 
 - I speak πtorch & C++ and work on IR, NLP, and CV.
 - I remember dependency parsing & gradient boosted decision trees.
